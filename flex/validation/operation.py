@@ -194,8 +194,9 @@ def construct_operation_validators(api_path, path_definition, operation_definiti
     - consumes (did the request conform to the content types this api consumes)
     - produces (did the response conform to the content types this endpoint produces)
     - parameters (did the parameters of this request validate)
-      TODO: move path parameter validation to here, because each operation
-            can override any of the path level parameters.
+      TODO:
+      move path parameter validation to here, because each operation
+      can override any of the path level parameters.
     - schemes (was the request scheme correct)
     - security: TODO since security isn't yet implemented.
     """

@@ -13,112 +13,112 @@ Subpackages
 Submodules
 ----------
 
-flex.cli module
----------------
+flex\.cli module
+----------------
 
 .. automodule:: flex.cli
     :members:
     :undoc-members:
     :show-inheritance:
 
-flex.constants module
----------------------
+flex\.constants module
+----------------------
 
 .. automodule:: flex.constants
     :members:
     :undoc-members:
     :show-inheritance:
 
-flex.context_managers module
-----------------------------
+flex\.context\_managers module
+------------------------------
 
 .. automodule:: flex.context_managers
     :members:
     :undoc-members:
     :show-inheritance:
 
-flex.core module
-----------------
+flex\.core module
+-----------------
 
 .. automodule:: flex.core
     :members:
     :undoc-members:
     :show-inheritance:
 
-flex.datastructures module
---------------------------
+flex\.datastructures module
+---------------------------
 
 .. automodule:: flex.datastructures
     :members:
     :undoc-members:
     :show-inheritance:
 
-flex.decorators module
-----------------------
+flex\.decorators module
+-----------------------
 
 .. automodule:: flex.decorators
     :members:
     :undoc-members:
     :show-inheritance:
 
-flex.error_messages module
---------------------------
+flex\.error\_messages module
+----------------------------
 
 .. automodule:: flex.error_messages
     :members:
     :undoc-members:
     :show-inheritance:
 
-flex.exceptions module
-----------------------
+flex\.exceptions module
+-----------------------
 
 .. automodule:: flex.exceptions
     :members:
     :undoc-members:
     :show-inheritance:
 
-flex.formats module
--------------------
+flex\.formats module
+--------------------
 
 .. automodule:: flex.formats
     :members:
     :undoc-members:
     :show-inheritance:
 
-flex.functional module
-----------------------
+flex\.functional module
+-----------------------
 
 .. automodule:: flex.functional
     :members:
     :undoc-members:
     :show-inheritance:
 
-flex.http module
-----------------
+flex\.http module
+-----------------
 
 .. automodule:: flex.http
     :members:
     :undoc-members:
     :show-inheritance:
 
-flex.parameters module
-----------------------
+flex\.parameters module
+-----------------------
 
 .. automodule:: flex.parameters
     :members:
     :undoc-members:
     :show-inheritance:
 
-flex.paths module
------------------
+flex\.paths module
+------------------
 
 .. automodule:: flex.paths
     :members:
     :undoc-members:
     :show-inheritance:
 
-flex.utils module
------------------
+flex\.utils module
+------------------
 
 .. automodule:: flex.utils
     :members:
